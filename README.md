@@ -1,1 +1,1 @@
-# bayesian-data-integration
+# Bayesian Data Integration
